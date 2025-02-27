@@ -1,1 +1,8 @@
-Ly9wcm9maWxlLXRpdGxlOiBiYXNlNjQ6OEorYWdGZEJVbER3bjVxQQovL3Byb2ZpbGUtdXBkYXRlLWludGVydmFsOiAxCi8vc3Vic2NyaXB0aW9uLXVzZXJpbmZvOiB1cGxvYWQ9MDsgZG93bmxvYWQ9MDsgdG90YWw9MTA3Mzc0MTgyNDAwMDAwMDA7IGV4cGlyZT0yNTQ2MjQ5NTMxCiAKd2FycDovL2F1dG80Lz9pZnA9NTAtMTAwJmlmcHM9NTAtMTAwJmlmcGQ9My02JmlmcG09bTQjV0FSUCBWNCYmZGV0b3VyPXdhcnA6Ly9hdXRvNC8/aWZwPTUwLTEwMCZpZnBzPTUwLTEwMCZpZnBkPTMtNiZpZnBtPW00I1dPVyBWNCAKCndhcnA6Ly9BdXRvNi8/aWZwPTUwLTEwMCZpZnBzPTUwLTEwMCZpZnBkPTMtNiZpZnBtPW00I1dhcnAgVjYmJmRldG91cj13YXJwOi8vYXV0bzQvP2lmcD01MC0xMDAmaWZwcz01MC0xMDAmaWZwZD0zLTYmaWZwbT1tNCNXT1cgVjYK
+//profile-title: base64:8J+agFdBUlDwn5qA
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+ 
+
+warp://auto4/?ifp=1-3&ifpm=m4#WARP V4&&detour=warp://auto4/?ifp=2-4&ifpm=m6#WOW V4
+
+warp://auto4/?ifp=1-3&ifpm=m4#WARP V6&&detour=warp://auto6/?ifp=2-4&ifpm=m6#WOW V6
