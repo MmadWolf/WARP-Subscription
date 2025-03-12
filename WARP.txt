@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
  
-
 warp://188.114.96.187:946/?ifpm=m4#WARP V4&&detour=warp://188.114.97.199:7281/?ifpm=m6#WOW V4
 
 warp://[2606:4700:d0::31f4:689f:b184:325c]:891/?ifpm=m4#WARP V6&&detour=warp://188.114.96.187:946/?ifpm=m6#WOW V6
